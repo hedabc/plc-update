@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
+  "version": "2.1.3",
   "url": "https://raw.githubusercontent.com/hedabc/plc-update/main/plc-latest.apk",
-  "notes": "更新第一次安装、重装、清除数据时出现的幻方锁界面，修复部分逻辑"
+  "notes": "更新幻方锁界面，支持拖动方格，点击回退，修复部分逻辑问题"
 }
