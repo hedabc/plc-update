@@ -1,5 +1,5 @@
 {
   "version": "2.1.5",
   "url": "https://raw.githubusercontent.com/hedabc/plc-update/main/plc-latest.apk",
-  "notes": "更新幻方锁首次安装、重装、清除数据的幻方界面，修复部分交互逻辑"
+  "notes": "修复Modbus报文越界崩溃、位号越界校验、非法输入提示统一、十进制双显示；修复串并联表格光标回退并对齐写数据输入样式；状态栏改沉浸式去除灰色底条"
 }
