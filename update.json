@@ -1,5 +1,5 @@
 {
-  "version": "2.1.5",
+  "version": "2.1.6",
   "url": "https://raw.githubusercontent.com/hedabc/plc-update/main/plc-latest.apk",
-  "notes": "修复Modbus报文越界崩溃、位号越界校验、非法输入提示统一、十进制双显示；修复串并联表格光标回退并对齐写数据输入样式；状态栏改沉浸式去除灰色底条"
+  "notes": "修复部分问题(负数处理、提示统一)，新增modbus模块报文批量解析"
 }
