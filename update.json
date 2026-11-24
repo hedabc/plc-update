@@ -1,5 +1,5 @@
 {
-  "version": "2.1.6",
+  "version": "2.1.7",
   "url": "https://raw.githubusercontent.com/hedabc/plc-update/main/plc-latest.apk",
-  "notes": "修复部分问题(负数处理、提示统一)，新增modbus模块报文批量解析"
+  "notes": "集中修复 17 项：进制转换前缀/负数/补零/截断提示，CRC 字节序与奇数提示，位运算 0b/0o 与大移位数卡死，无穷大输入崩溃，批量切分支持 0x17，写表格支持负数，工程面板三处新提示。新增modbus报文批量解析"
 }
